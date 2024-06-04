@@ -1,4 +1,4 @@
-###👋 I'm Marina!
+### 👋 I'm Marina!
 
 A self-taught frontend developer with eight years background in the banking sector. Helped with everything from
 creation well-researched documents to optimization of work processes. I am confident that my previous experience along
