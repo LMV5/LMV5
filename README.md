@@ -1,22 +1,18 @@
 ### Hi there 👋 I'm Marina!
 
-I'm self-taught frontend developer based in Slovenia. 
+A self-taught frontend developer with eight years background in the banking sector. Helped with everything from
+creation well-researched documents to optimization of work processes. I am confident that my previous experience along
+with my strong problem-solving skills, make me a valuable addition to any development team.
+
+Based in Slovenia. 
 
 ## Toolbox:
-- Frontend development: HTML, CSS, SASS, JavaScript, React.js, React Router, Redux Toolkit, Vite, Tailwind, CSS modules, Styled components.
+- Frontend development: HTML, CSS, SASS, JavaScript, React.js, React Router, Redux, React Query, Vite, Tailwind, CSS modules, Styled components, Next.js, NextAuth.js.
 
 - Version control: Git.
 
-## Contacts:
-For quick response DM me on [LinkedIn](https://www.linkedin.com/in/marina-lapteva/)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on my personal developer website
+- 🌱 I’m currently learning TypeScript in React apps
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marina-lapteva/)
