@@ -11,7 +11,6 @@ Based in Slovenia.
 - 🧱 Building my personal developer website (coming soon!)
 - 🌱 Leveling up my skills with TypeScript in React apps
 - 🔭 Always looking for ways to learn and collaborate!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marina-lapteva/)
 
 ## My Toolbox:
 - Frontend development: HTML, CSS, SASS, JavaScript, React.js, React Router, Redux, React Query, Vite, Tailwind, CSS modules, Styled components, Next.js, NextAuth.js.
