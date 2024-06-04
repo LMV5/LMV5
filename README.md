@@ -6,13 +6,11 @@ with my strong problem-solving skills, make me a valuable addition to any develo
 
 Based in Slovenia. 
 
-## Toolbox:
-- Frontend development: HTML, CSS, SASS, JavaScript, React.js, React Router, Redux, React Query, Vite, Tailwind, CSS modules, Styled components, Next.js, NextAuth.js.
-
-- Version control: Git.
-
-
-
 - 🔭 I’m currently working on my personal developer website
 - 🌱 I’m currently learning TypeScript in React apps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marina-lapteva/)
+
+## My Toolbox:
+- Frontend development: HTML, CSS, SASS, JavaScript, React.js, React Router, Redux, React Query, Vite, Tailwind, CSS modules, Styled components, Next.js, NextAuth.js.
+
+- Version control: Git.
