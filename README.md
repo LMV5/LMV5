@@ -1,7 +1,6 @@
 ### 👋 I'm Marina!
 
-A self-taught frontend developer with eight years background in the banking sector. I am confident that my previous experience along
-with my strong problem-solving skills, make me a valuable addition to any development team.
+A self-taught frontend developer focusing on React and Next.js and I'm open to learning new technologies despite this. I'm motivated to learn and grow in this dynamic field. It's great to see the immediate results of my work. I'm looking forward to working with a team to tackle tasks together and contributing value to your company.
 
 Based in Slovenia. 
 
